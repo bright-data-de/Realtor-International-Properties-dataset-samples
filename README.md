@@ -1,56 +1,56 @@
 # Realtor International Properties Dataset Sample
 
-<h2>A sample dataset of 1,000 records</h2>
+<h2>Ein Beispiel-Datensatz mit 1.000 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Realtor-International-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Realtor International Properties Dataset Sample** includes **1,000 records** and was extracted using the **Bright Data API**.
+Dieses **Realtor International Properties Dataset Sample** umfasst **1.000 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The direct URL to the property's detailed listing page on Realtor. |
-| `id` | A unique identifier assigned to each property listing. |
-| `title` | The title or headline of the property listing, including address details. |
-| `price` | The listed price of the property in the specified currency. |
-| `currency` | The currency in which the property's price is denominated. |
-| `description` | A brief description or overview of the property's features and amenities. |
-| `images` | URLs of images showcasing the property, provided as a list. |
-| `bedrooms` | The number of bedrooms available in the property. |
-| `bathrooms` | The number of bathrooms available in the property. |
-| `property_type` | The type of property, e.g., house, apartment, villa. |
-| `building_size` | The total size of the building in square feet or meters. |
-| `land_size` | The total size of the land on which the property is built. |
-| `rooms` | The total number of rooms available in the property. |
-| `address` | The full street address of the property. |
-| `country_code` | The ISO code representing the country where the property is located. |
-| `state` | The state or region where the property is located. |
-| `city` | The city where the property is located. |
-| `realtor_details` | Information about the realtor or agency managing the property listing. |
-| `price_history` | Historical data of the property's price changes over time. |
-| `listing_status` | Current status of the listing, e.g., active, pending, sold. |
+| `url` | Die direkte URL zur detaillierten Listing-Seite der Immobilie auf Realtor. |
+| `id` | Eine eindeutige Kennung, die jedem Immobilien-Listing zugewiesen wird. |
+| `title` | Der Titel oder die Überschrift des Immobilien-Listings, einschließlich Adressdetails. |
+| `price` | Der angegebene Preis der Immobilie in der festgelegten Währung. |
+| `currency` | Die Währung, in der der Preis der Immobilie angegeben ist. |
+| `description` | Eine kurze Beschreibung oder Übersicht der Merkmale und Ausstattungen der Immobilie. |
+| `images` | URLs von Bildern, die die Immobilie zeigen, als Liste bereitgestellt. |
+| `bedrooms` | Die Anzahl der in der Immobilie verfügbaren Schlafzimmer. |
+| `bathrooms` | Die Anzahl der in der Immobilie verfügbaren Badezimmer. |
+| `property_type` | Der Immobilientyp, z. B. Haus, Apartment, Villa. |
+| `building_size` | Die Gesamtgröße des Gebäudes in Quadratfuß oder Quadratmetern. |
+| `land_size` | Die Gesamtgröße des Grundstücks, auf dem die Immobilie gebaut ist. |
+| `rooms` | Die Gesamtanzahl der in der Immobilie verfügbaren Räume. |
+| `address` | Die vollständige Straßenadresse der Immobilie. |
+| `country_code` | Der ISO-Code, der das Land repräsentiert, in dem sich die Immobilie befindet. |
+| `state` | Der Bundesstaat oder die Region, in der sich die Immobilie befindet. |
+| `city` | Die Stadt, in der sich die Immobilie befindet. |
+| `realtor_details` | Informationen über den Makler oder die Agentur, die das Immobilien-Listing verwaltet. |
+| `price_history` | Historische Daten zu den Preisänderungen der Immobilie im Zeitverlauf. |
+| `listing_status` | Aktueller Status des Listings, z. B. aktiv, ausstehend, verkauft. |
 
 
 ## Use Cases
 
-### 1. Market Analysis
-Leverage this dataset to perform comprehensive market analysis, identifying trends and pricing strategies across various regions.
+### 1. Marktanalyse
+Nutzen Sie diesen Datensatz, um umfassende Marktanalysen durchzuführen und Trends sowie Preisstrategien in verschiedenen Regionen zu identifizieren.
 
-### 2. Investment Opportunities
-Identify lucrative real estate investment opportunities by analyzing property details and historical pricing data.
+### 2. Investitionsmöglichkeiten
+Identifizieren Sie lukrative Immobilien-Investitionsmöglichkeiten, indem Sie Immobiliendetails und historische Preisdaten analysieren.
 
-### 3. Competitive Benchmarking
-Use the dataset to compare property listings and evaluate competitive positioning in the real estate market.
+### 3. Wettbewerbsvergleich
+Verwenden Sie den Datensatz, um Immobilien-Listings zu vergleichen und die Wettbewerbspositionierung im Immobilienmarkt zu bewerten.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -70,8 +70,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Bereitstellung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -80,14 +80,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz um zusätzliche Datenpunkte basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Anreicherungsoptionen.
 
-**[Get the full Realtor International Properties dataset](https://brightdata.com/products/datasets/real-estate/realtor)**
+**[Holen Sie sich den vollständigen Realtor International Properties dataset](https://brightdata.de/products/datasets/real-estate/realtor)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).

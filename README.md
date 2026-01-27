@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 1.000 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Realtor-International-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Realtor-International-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Realtor International Properties Dataset Sample** umfasst **1.000 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
